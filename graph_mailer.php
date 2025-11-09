@@ -1,4 +1,5 @@
 <?php
+namespace graphMailer;
 /*
  *   Mail script - Katy Nicholson, April 2020
  *
