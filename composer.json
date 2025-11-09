@@ -2,12 +2,13 @@
   "name": "webugetsk/msgraphmailer",
   "description": "Azure Graph Mailer library for PHP",
   "minimum-stability": "stable",
-  "license": "gnu/gpl",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Katy Nicholson"
     }
   ],
   "require": {
+    "php": ">=8.2"
   }
 }
