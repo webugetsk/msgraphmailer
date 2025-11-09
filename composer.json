@@ -11,8 +11,8 @@
     "php": ">=8.2"
   },
   "autoload": {
-    "psr-4": {
-      "graphMailer\\": ""
-    }
+      "files": [
+        "graph_mailer.php"
+      ]
   }
 }
